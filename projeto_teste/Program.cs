@@ -16,6 +16,8 @@ namespace projeto_teste
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tchau!");
             Console.WriteLine("git clone alteração de outro usuário");
+            Console.WriteLine("adicionando nova mensagem no fim");
+
             Console.ReadLine();
         }
     }
